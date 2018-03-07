@@ -1,0 +1,38 @@
+class ListItem extends React.PureComponent {
+
+
+    render() {
+        const { navigate } = this.props.navigation;
+
+        const item = this.props.item;
+        return (
+            <TouchableHighlight
+                onPress={()=> navigate('ambassadorProfileView', {item})}
+                underlayColor='#dddddd'>
+                <View>
+                    <View style={styles.rowContainer}>
+                        <View style={styles.textContainer}>
+                            <Text style={styles.names}>{item.name}</Text>
+                            <Text style={styles.body}>{item.major}</Text>
+                            <Text style={styles.body}>{item.grade}</Text>
+                        </View>
+                    </View>
+                    <View style={styles.separator}/>
+                </View>
+            </TouchableHighlight>
+        );
+    }
+}
+
+
+    canvas: {
+                    position: 'absolute',
+                    top: 0,
+                    left: 0,
+                    bottom: 0,
+                    right: 0,
+                },
+                    <Image
+                        resizeMode="contain"
+                        source={{uri: 'http://imgs.steps.dragoart.com/how-to-draw-a-pony-step-7_1_000000053055_5.jpg'}}
+                        style={styles.canvas} />

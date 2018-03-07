@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptLibraryMappings">
+    <file url="file://$PROJECT_DIR$" libraries="{Node.js Core}" />
+    <file url="file://$PROJECT_DIR$/node_modules/react-native-branch/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1" libraries="{Node.js Core}" />
+    <file url="file://$PROJECT_DIR$/node_modules/react-native-branch/android/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0" libraries="{Node.js Core}" />
+    <file url="file://$PROJECT_DIR$/node_modules/react-native-branch/android/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0" libraries="{Node.js Core}" />
+    <file url="file://$PROJECT_DIR$/node_modules/react-native-branch/android/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.11.0" libraries="{Node.js Core}" />
+    <file url="file://$PROJECT_DIR$/node_modules/react-native-branch/android/build/intermediates/exploded-aar/com.facebook.react/react-native/0.41.2" libraries="{Node.js Core}" />
+    <file url="file://$PROJECT_DIR$/node_modules/react-native-branch/android/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0" libraries="{Node.js Core}" />
+    <file url="file://$PROJECT_DIR$/node_modules/react-native-branch/android/build/intermediates/exploded-aar/org.webkit/android-jsc/r174650" libraries="{Node.js Core}" />
+    <file url="file://$PROJECT_DIR$/node_modules/react-native-branch/android/build/intermediates/manifests/aapt/debug" libraries="{Node.js Core}" />
+    <file url="file://$PROJECT_DIR$/node_modules/react-native-maps/lib/android/build/intermediates/bundles/default" libraries="{Node.js Core}" />
+    <file url="file://$PROJECT_DIR$/node_modules/react-native-maps/lib/android/build/intermediates/manifests/aapt/release" libraries="{Node.js Core}" />
+    <file url="file://$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/androidTest" libraries="{Node.js Core}" />
+    <file url="file://$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main" libraries="{Node.js Core}" />
+    <file url="file://$PROJECT_DIR$/node_modules/react-native/local-cli/core/__fixtures__/files" libraries="{Node.js Core}" />
+  </component>
+</project>
